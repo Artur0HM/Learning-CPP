@@ -1,3 +1,4 @@
+/*  Ingrese un número identificar si es positivo o negativo*/
 #include <iostream>
 using namespace std;
 int main () {
