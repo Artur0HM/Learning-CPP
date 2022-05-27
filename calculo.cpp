@@ -12,7 +12,6 @@ int main () {
     cout << "*****       (a-b)(a+b)         *******" << endl;
     cout << "**************************************" <<endl;
 
-
     cout << "Ingrese A: ";
     cin >> ingrese_A;
 
