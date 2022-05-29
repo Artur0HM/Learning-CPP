@@ -57,8 +57,7 @@ int main () {
                     cout << "El precio total a pagar es de: " << (total - (descuento * total) / 100);
                 }
                 
-                
         }
-        
+
     return 0;
 }
