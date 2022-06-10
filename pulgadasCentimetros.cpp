@@ -13,7 +13,9 @@ int main () {
 
     pulgadas = centimetros * pulgadaCentimetros;
 
-    cout << "La distancia ingresada es de: " << centimetros << " centimetros" << endl;
+
+cout << "La distancia ingresada es de: " << centimetros << " centimetros" << endl;
+    
     cout << "La distancia en pulgadas es de: " << pulgadas;
 
     return 0;
